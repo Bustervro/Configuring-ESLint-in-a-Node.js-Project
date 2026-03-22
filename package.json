@@ -1,0 +1,14 @@
+{
+  "name": "eslint-node-project",
+  "version": "1.0.0",
+  "description": "ESLint setup project",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint yourfile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
